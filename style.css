@@ -1,0 +1,35 @@
+body { 
+  font-family: "Segoe UI", sans-serif; 
+  background:#7ef0c0; 
+  margin:0; 
+}
+main {
+  max-width: 600px;
+  margin: 60px auto;
+  background:#fff;
+  padding:32px;
+  border-radius:8px;
+}
+h1 {
+  color:#04AA6D;
+  margin-top:0;
+}
+mark { 
+  background:#fffd91;
+}
+button { 
+  background:#10bbff; 
+  color:#fff; 
+  border:none; 
+  padding:12px 24px; 
+  border-radius:999px; 
+  cursor:pointer; 
+}
+button:hover { 
+  background:#45cdf7; 
+}
+  .crad {
+    font-size: 20px;
+    color: #15f00d;
+    margin-top: 20px;
+}
